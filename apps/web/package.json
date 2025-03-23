@@ -15,11 +15,11 @@
     "scripts": {
         "build": "next build",
         "start": "next start",
-        "start:dev": "next dev",
+        "dev": "next dev",
         "lint": "next lint"
     },
     "dependencies": {
-        "next": "15.1.6",
+        "next": "15.2.3",
         "react": "^19.0.0",
         "react-dom": "^19.0.0"
     },
